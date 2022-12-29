@@ -1,0 +1,2 @@
+[ERROR Thu Dec 29 15:14:50 2022 12058849456448] .../site/pack/packer/start/packer.nvim/lua/packer/async.lua:20: Error in coroutine: ...ite/pack/packer/start/packer.nvim/lua/packer/display.lua:968: Vim:E492: Not an editor command: NERDTreeMirror
+[ERROR Thu Dec 29 15:15:03 2022 12071559346368] .../site/pack/packer/start/packer.nvim/lua/packer/async.lua:20: Error in coroutine: ...ite/pack/packer/start/packer.nvim/lua/packer/display.lua:968: Vim:E492: Not an editor command: NERDTreeMirror
